@@ -1,6 +1,8 @@
 // include test definitions
 #include "simplectest/tests.h"
 #include "helloworld.h"
+#include <stdio.h>
+#include <string.h>
 
 // Start the overall test suite
 START_TESTS()
