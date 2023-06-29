@@ -11,7 +11,7 @@ START_TESTS()
        ASSERT_EQUALS("Hello World!", HelloWorld())
     END_TEST()
 
-    START_TEST("Count World")
+    START_TEST("Count Count")
         ASSERT_EQUALS(12, strlen(HelloWorld()))
     END_TEST()
 
