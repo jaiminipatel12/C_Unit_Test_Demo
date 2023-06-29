@@ -8,10 +8,10 @@
 START_TESTS()
 
     START_TEST("Hello World Test")
-       ASSERT_EQUALS("Hello World!", HelloWorld())
+       ASSERT_EQUALS("Hello Count!", HelloWorld())
     END_TEST()
 
-    START_TEST("Count Count")
+    START_TEST("Count World")
         ASSERT_EQUALS(12, strlen(HelloWorld()))
     END_TEST()
 
