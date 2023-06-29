@@ -8,7 +8,7 @@
 START_TESTS()
 
     START_TEST("Hello World Test")
-       ASSERT_EQUALS("Hello Count!", HelloWorld())
+       ASSERT_EQUALS("Hello World!", HelloWorld())
     END_TEST()
 
     START_TEST("Count World")
