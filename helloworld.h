@@ -6,5 +6,5 @@ const char * HelloWorld();
 
 //Definitions
 const char * HelloWorld(){
-     return "Hello Count1!";
+     return "Hello Count!";
 }
